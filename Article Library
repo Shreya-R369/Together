@@ -1,0 +1,131 @@
+<html>
+<head>
+<title>The World around Us</title>
+<style type="text/css">
+
+h1
+{font-family:times new roman;
+font-size:200px;
+color:white;
+background-color:#1B2631;
+text-align:center}
+
+h2
+{font-family:verdana;
+color:grey;
+font-size:60px;
+ margin: 15px 200px 25px 100px}
+
+h3
+{font-family:verdana;
+color:#424949;
+font-size:50px;
+text-decoration:underline;
+ margin: 15px 200px 25px 100px}
+
+p
+{font-family:calibri;
+color:black;
+font-size:250%;
+font-style:bold;
+ margin: 15px 200px 25px 100px}
+
+td
+{text-align:center;
+font-size:20px;
+font-family:verdana;
+background-color:#BDC3C7;
+text-align:center;
+border-radius:20px 20px 20px 20px}
+
+img 
+{border: 5px solid #566573;
+line-height:1px;
+border-radius:20px 20px 20px 20px}
+
+
+a:hover
+{color:grey}
+</style>
+</head>
+
+
+<body>
+<h1>The World Around Us</h1>
+<img div align = right src= "https://i.pinimg.com/originals/e4/d3/95/e4d395849317f98f2a418c0e10182b0d.gif" width=650px height=300px>
+<h2>What is "The World Around us"?</h2>
+<p>The World around us in a platform where you can
+ access news articles which are short and comprehensible and focuses on
+ predominant topics and issues
+ in this enigmatic world.
+</p>
+<br>
+<br>
+<br>
+
+<h2>Articles</h2>
+<br>
+<br>
+<table width= 90% height=110% align=center>
+<line break=no break>
+<h3> Sports</h3>
+<tr>
+<td>
+<p>THE TOKYO OLYMPICS</p>
+<a href="file:///C:/Users/rajan/Desktop/Shreya%20R_Computer/Activities/HTML/Tokyo%20olympics%202021.html">
+<img src="https://www.cnet.com/a/img/S0XyG3S1BcWwK1h8b9RuzXIlLJM=/1200x675/2019/07/31/4342e8d6-a9b6-4bc7-8b39-5512521a25d1/tokyo-2020-olympics.jpg" width=800px height=400px>
+</td>
+<td>
+<p>INDIAN OLYMPIC MEDALISTS</p>
+<a href="file:///C:/Users/rajan/Desktop/Shreya%20R_Computer/Activities/HTML/Indian%20medalists.html">
+<img src="WhatsApp Image 2021-08-11 at 07.07.03 (1).jpeg" width=800px height=400px>
+</tr>
+<tr>
+<td colspan = 2><p>PT USHA</p>
+<a href="file:///C:/Users/rajan/Desktop/Shreya%20R_Computer/Activities/HTML/My%20favourite%20sports%20personality.html">
+<img src="https://st1.latestly.com/wp-content/uploads/2020/06/PT-Usha.jpg" width=800px height=400px>
+</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h3>Social </h3>
+<table width= 90% height=110% align=center>
+<tr>
+<td><p>WORKERS' RIGHT</p>
+<a href="file:///C:/Users/rajan/Desktop/Shreya%20R_Computer/Activities/HTML/The%20Taliban%20and%20their%20Rise%20to%20Power.html">
+<img src="WhatsApp Image 2021-08-30 at 21.03.23.jpeg" width=800px height=400px>
+</td>
+<td><p>LABOR RIGHTS</p>
+<a href="file:///C:/Users/rajan/Desktop/Shreya%20R_Computer/Activities/HTML/Labor%20Rights.html">
+<img src="WhatsApp Image 2021-09-08 at 11.51.00.jpeg" width= 800px height= 400px>
+</td>
+</tr>
+<tr>
+<td colspan= 2><p>CYBER SECURITY</p>
+<a href= file:///C:/Users/rajan/Desktop/Shreya%20R_Computer/Activities/HTML/Cyber%20Security.html>
+<img src = "WhatsApp Image 2021-09-18 at 08.51.25.jpeg" width= 800px height= 400px>
+</td>
+</table>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h3>Recipes</h3>
+<table width= 50% height=60% align=center>
+<tr>
+<left><td><p>STRAWBERRY MILKSHAKE</P>
+<a href="file:///C:/Users/rajan/Desktop/Shreya%20R_Computer/Activities/HTML/Strawberry%20milkshake.html">
+<img src= "WhatsApp Image 2021-07-28 at 11.58.38.jpeg" width=800px height=400px>
+</left>
+</td>
+</tr>
+</table
+
